@@ -1,0 +1,18 @@
+.container {
+    .list-container {
+        margin-top: 50px;
+    }
+}
+
+.todo-list-item {
+    .todo-label {
+        display: inline-block;
+        width: 200px;
+        font-size: 18pt;
+        text-align: left;
+        background-color: gainsboro;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+}
